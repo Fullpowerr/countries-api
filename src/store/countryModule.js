@@ -1,4 +1,4 @@
-import { requestCountries } from '@/api/get-api';
+import { requestCountries } from '@/api/getApi';
 
 export const countryModule = {
    state: () => ({
